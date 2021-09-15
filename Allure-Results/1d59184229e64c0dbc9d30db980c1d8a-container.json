@@ -1,0 +1,44 @@
+{
+  "uuid": "a781e668-78eb-4d5d-8db5-49187c249a4b-tc-0-1000",
+  "name": "AuthorisationCianPageTests.Tests.Test1",
+  "children": [
+    "09e9233e-e849-47c5-8f56-d0c379ffc2db-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1631697420582,
+      "stop": 1631697420582
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1631697420582,
+      "stop": 1631697420582
+    }
+  ],
+  "links": [],
+  "start": 1631697417421,
+  "stop": 1631697420599
+}

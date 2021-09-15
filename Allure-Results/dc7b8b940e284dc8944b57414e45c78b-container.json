@@ -1,0 +1,46 @@
+{
+  "uuid": "5431e243-9231-431f-b1e3-0ad28d5673fc-tc-0-1000",
+  "name": "AuthorisationCianPageTests.Tests.Test2",
+  "children": [
+    "be646918-dff1-4771-8e13-4c4901f31325-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.ObjectDisposedException : Cannot access a disposed object.\r\nObject name: 'System.Net.Http.HttpClient'.",
+        "trace": "   at System.Net.Http.HttpClient.CheckDisposed()\r\n   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)\r\n   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)\r\n   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request)\r\n   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)\r\n   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.set_Url(String value)\r\n   at OpenQA.Selenium.Navigator.GoToUrl(String url)\r\n   at AuthorisationCianPageTests.Tests.Setup() in C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\AutorisationFormTests.cs:line 27"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1631697420622,
+      "stop": 1631697420622
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1631697420622,
+      "stop": 1631697420622
+    }
+  ],
+  "links": [],
+  "start": 1631697420606,
+  "stop": 1631697420624
+}

@@ -1,0 +1,76 @@
+{
+  "uuid": "09e9233e-e849-47c5-8f56-d0c379ffc2db-tr-0-1001",
+  "historyId": "AuthorisationCianPageTests.Tests.Test1",
+  "fullName": "AuthorisationCianPageTests.Tests.Test1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "WS01-004"
+    },
+    {
+      "name": "testClass",
+      "value": "AuthorisationCianPageTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "package",
+      "value": "AuthorisationCianPageTests.Tests"
+    },
+    {
+      "name": "tag",
+      "value": "Ci"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "subSuite",
+      "value": "Test FormAutorisation"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test1"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Test1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f7161879a9c44fa287d7007517208a25-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1631697417427,
+      "stop": 1631697420584
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1631697417426,
+  "stop": 1631697420587
+}

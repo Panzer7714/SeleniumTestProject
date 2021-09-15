@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ignored tests", 
+    "matchedStatuses": ["skipped"] 
+  },
+  {
+    "name": "Product Bug",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*bye-bye.*"
+  },
+  {
+    "name": "Prot defects",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*DivideByZeroException*"
+  },
+  {
+    "name": "Tst defects",
+    "matchedStatuses": ["broken"]
+  }
+]
