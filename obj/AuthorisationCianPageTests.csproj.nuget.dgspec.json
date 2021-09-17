@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\AuthorisationCianPageTests.csproj": {}
+    "C:\\Users\\golovin_da\\Desktop\\Новая папка (4)\\SeleniumTestProject\\AuthorisationCianPageTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\AuthorisationCianPageTests.csproj": {
+    "C:\\Users\\golovin_da\\Desktop\\Новая папка (4)\\SeleniumTestProject\\AuthorisationCianPageTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\AuthorisationCianPageTests.csproj",
+        "projectUniqueName": "C:\\Users\\golovin_da\\Desktop\\Новая папка (4)\\SeleniumTestProject\\AuthorisationCianPageTests.csproj",
         "projectName": "AuthorisationCianPageTests",
-        "projectPath": "C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\AuthorisationCianPageTests.csproj",
+        "projectPath": "C:\\Users\\golovin_da\\Desktop\\Новая папка (4)\\SeleniumTestProject\\AuthorisationCianPageTests.csproj",
         "packagesPath": "C:\\Users\\golovin_da\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\obj\\",
+        "outputPath": "C:\\Users\\golovin_da\\Desktop\\Новая папка (4)\\SeleniumTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\golovin_da\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

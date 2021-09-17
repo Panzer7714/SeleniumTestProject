@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wGpsMOo4cQhDjZw0tsF1rZmqrySgX3fyxfZ8N1vFBnMd8h/rSCrcrny7AFINHFmVf7+SI9um4Ct0njT7kJWaTQ==",
+  "dgSpecHash": "MHtDO7KLGYMFxk0AKMJSFCxZg34d8JNT3M98FibK0/DZr5O+y7Zg90FU3MoRzOyZl6rMGEXofJ/Ohjn/iTxuxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\golovin_da\\source\\repos\\AuthorisationCianPageTests\\AuthorisationCianPageTests\\AuthorisationCianPageTests.csproj",
+  "projectFilePath": "C:\\Users\\golovin_da\\Desktop\\Новая папка (4)\\SeleniumTestProject\\AuthorisationCianPageTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\golovin_da\\.nuget\\packages\\allure.commons\\3.5.0.4\\allure.commons.3.5.0.4.nupkg.sha512",
     "C:\\Users\\golovin_da\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

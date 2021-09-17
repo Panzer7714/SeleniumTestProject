@@ -15,8 +15,8 @@ namespace AuthorisationCianPageTests
     {
         IWebDriver _webDriver = new ChromeDriver();
         
-        private const string _login = "golovindanil28@gmail.com";
-        private const string _password = "Danil2693";
+        private const string _login = "******";
+        private const string _password = "****";
 
         
         [SetUp]
