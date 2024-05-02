@@ -15,7 +15,7 @@ namespace AuthorisationCianPageTests
     {
         IWebDriver _webDriver = new ChromeDriver();
         
-        private const string _login = "******";
+        private const string _login = "*****";
         private const string _password = "****";
 
         
@@ -24,7 +24,8 @@ namespace AuthorisationCianPageTests
         {
 
 
-            _webDriver.Navigate().GoToUrl("https://cian.ru");
+            string url = "https://cian.ru";
+            _webDriver.Navigate().GoToUrl(url);
             _webDriver.Manage().Window.Maximize();
         }
 
